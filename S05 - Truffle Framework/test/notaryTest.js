@@ -4,7 +4,7 @@ contract("NotaryContract", function(accounts) {
   it('This is my TestCase', function() {
     return NotaryArtifact.deployed().then(function(instance) {
       //here we can access instance
-      //console.log(instance);
+      console.log(instance);
     })
   });
 
