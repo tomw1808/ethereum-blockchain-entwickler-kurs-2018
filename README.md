@@ -2,6 +2,14 @@
 
 Together We Will Develop A Blockchain Notary Office, test it, and then deploy it to different networks.
 
+## Demo
+
+Checkout https://tomw1808.github.io/ethereum-blockchain-entwickler-kurs-2018/ and set your MetaMask to the Ropsten Network.
+
+If you don't know what that means, joing the course below for $20 only! Everything how this notary is built is described in the course!
+
+## The Course
+
 The steps we will be taking to build our blockchain application are...
 
 * Solidity Basics
